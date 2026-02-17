@@ -1,4 +1,6 @@
-# RunThis
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/575fd0a0-18e5-4b24-8077-4790bcd1bbbc">
+</p>
 
 Run code from GitHub in one command.
 
